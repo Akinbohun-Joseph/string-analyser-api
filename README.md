@@ -14,7 +14,7 @@ Simple keyword-based natural language parser for supported query patterns.
 Setup Instructions
 
 Clone the Repository
-textgit clone https://github.com/yourusername/string-analyzer-api.git
+textgit clone https://github.com/Akinbohun-Joseph/string-analyzer-api.git
 cd string-analyzer-api
 
 Install Dependencies
